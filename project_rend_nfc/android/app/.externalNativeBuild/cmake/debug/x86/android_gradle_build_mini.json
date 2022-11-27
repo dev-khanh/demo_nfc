@@ -1,0 +1,18 @@
+{
+  "buildFiles": [
+    "/usr/local/Android/Sdk/ndk-bundle/build/cmake/android.toolchain.cmake",
+    "/usr/local/Android/Sdk/ndk-bundle/build/cmake/platforms.cmake",
+    "/root/AndroidStudioProjects/SysiotNetDriver_TEST/app/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/usr/local/Android/Sdk/cmake/3.10.2.4988404/bin/cmake --build /root/AndroidStudioProjects/SysiotNetDriver_TEST/app/.externalNativeBuild/cmake/debug/x86 --target clean"
+  ],
+  "libraries": {
+    "SYSIOT_NET_Driver-Debug-x86": {
+      "artifactName": "SYSIOT_NET_Driver",
+      "buildCommand": "/usr/local/Android/Sdk/cmake/3.10.2.4988404/bin/cmake --build /root/AndroidStudioProjects/SysiotNetDriver_TEST/app/.externalNativeBuild/cmake/debug/x86 --target SYSIOT_NET_Driver",
+      "abi": "x86",
+      "output": "/root/AndroidStudioProjects/SysiotNetDriver_TEST/app/build/intermediates/cmake/debug/obj/x86/libSYSIOT_NET_Driver.so"
+    }
+  }
+}

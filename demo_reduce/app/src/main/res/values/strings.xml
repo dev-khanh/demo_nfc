@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SysiotNetDriverDemo_v1.0</string>
+    <string name="tv_NetIP">IP address</string>
+    <string name="et_NetIP">192.168.0.200</string>
+    <string name="et_NetIP_hint">192.168.0.200</string>
+    <string name="tv_NetPort">Port</string>
+    <string name="et_NetPort">200</string>
+    <string name="et_NetPort_hint">200</string>
+    <string name="connect_reader">Connect Reader</string>
+    <string name="disconnect_reader">DisConnect Reader</string>
+    <string name="reset_reader">Reset Reader</string>
+    <string name="firmware_version">Firmware Version:</string>
+    <string name="hardware_version">Hardware Version:</string>
+    <string name="main_firmware_version">Main Firmware Version:</string>
+    <string name="get_region">Get Region</string>
+    <string name="set_region">Set Region</string>
+    <string name="freq_area">Freq Area</string>
+    <string name="set_rfch">Set RFCH</string>
+    <string name="frequency">Frequency</string>
+    <string name="get_rfch">Get RFCH</string>
+    <string name="fhss_off">FHSS OFF</string>
+    <string name="fhss_on">FHSS ON</string>
+    <string name="Papower">PA Power</string>
+    <string name="power">Power</string>
+    <string name="get_pa_power">Get PA power</string>
+    <string name="set_pa_power">Set PA power</string>
+    <string name="checkBox_AutoPolling">Auto Polling</string>
+
+    <string name="CheckBox1">Ant1</string>
+    <string name="CheckBox2">Ant2</string>
+    <string name="CheckBox3">Ant3</string>
+    <string name="CheckBox4">Ant4</string>
+
+    <string name="RadioOption1">Hex Display</string>
+    <string name="RadioOption2">Hex Send</string>
+    <string name="RadioOption3">Hex Display</string>
+    <string name="RadioOption4">Hex Send</string>
+
+    <string name="et_Inventory_number1">Inventory number</string>
+    <string name="et_Inventory_number2">Inventory number</string>
+    <string name="et_Inventory_number3">Inventory number</string>
+    <string name="et_Inventory_number4">Inventory number</string>
+
+    <string name="bt_ANT_GET">Get Ant</string>
+    <string name="bt_ANT_SET">Set Ant</string>
+
+    <string name="bt_ANT_Work_Get">Get Work Ant</string>
+    <string name="bt_ANT_Work_Set">Set Work Ant</string>
+
+    <string name="membank">MemBank</string>
+    <string name="pointer">pointer</string>
+    <string name="et_pointer_hint">00 00 00 20</string>
+    <string name="length">Length</string>
+    <string name="mask">Mask</string>
+    <string name="set_select">Set Select</string>
+    <string name="get_select">Get Select</string>
+    <string name="word_pointer">word Pointer</string>
+    <string name="et_word_pointer_hint">00 02</string>
+    <string name="word_count">Word Count</string>
+    <string name="et_word_count_hint">00 06</string>
+    <string name="access_password">Access Password</string>
+    <string name="et_access_password_hint">00 00 00 00</string>
+    <string name="tv_data_str">Data:</string>
+    <string name="tv_epc_str">EPC:</string>
+    <string name="bt_read_str">Read</string>
+    <string name="bt_write_str">Write</string>
+    <string name="bt_search_str">Search</string>
+    <string name="tv_read_tag_status_str">Current R/W tag state:</string>
+    <string name="tv_sensor_tag_total_str">Total:</string>
+    <string name="tv_signal_success_str">Success:</string>
+    <string name="tv_Q_str">Q Value:</string>
+    <string name="algorithm">Algorithm</string>
+    <string name="bt_sensor_search">Search</string>
+    <string name="bt_stop_search">Stop Search</string>
+    <string name="bt_clear_list">Clear list</string>
+    <string name="ok">OK</string>
+
+    <string name="tv_info_epc">EPC:</string>
+    <string name="tv_info_rssi">RSSI:</string>
+    <string name="tv_info_count">Count</string>
+    <string name="tv_info_ant">Ant</string>
+
+    <string name="tv_search_title">Please choose a Tag</string>
+    <string name="tv_read_success">Success:</string>
+    <string name="tv_read_fail">Fail:</string>
+    <string name="loop_number">Number:</string>
+    <string name="total">Total:</string>
+    <string name="tv_q">Q Value:</string>
+    <string name="bt_multi">Multi Tag Read</string>
+    <string name="bt_stop">Stop</string>
+    <string name="bt_exit">Exit</string>
+    <string name="tv_showTemchart">View the temperature chart</string>
+    <string name="tv_showTemList">View the temperature list</string>
+    <string name="tv_showDeleItem">Delete suboption</string>
+    <string name="start_addr">Start Addr:</string>
+    <string name="bt_dialog_set_addr">Set</string>
+    <string name="bt_dialog_cancel">Cancel</string>
+    <string name="bt_get_tem">Get Temperature</string>
+    <string name="bt_clear_chart">Clear chart</string>
+    <string name="tv_aver">aver:</string>
+    <string name="tv_count">count:</string>
+    <string name="tv_access_password">password:</string>
+    <string name="distance">Read tag distance:</string>
+
+</resources>

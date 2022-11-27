@@ -1,0 +1,45 @@
+{
+  "stringTable": {
+    "0": "/root/AndroidStudioProjects/SysiotNetDriver_TEST/app/.externalNativeBuild/cmake/release/x86",
+    "1": "-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++  -O2 -DNDEBUG  -fPIC  "
+  },
+  "buildFiles": [
+    "/usr/local/Android/Sdk/ndk-bundle/build/cmake/android.toolchain.cmake",
+    "/usr/local/Android/Sdk/ndk-bundle/build/cmake/platforms.cmake",
+    "/root/AndroidStudioProjects/SysiotNetDriver_TEST/app/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/usr/local/Android/Sdk/cmake/3.10.2.4988404/bin/cmake --build /root/AndroidStudioProjects/SysiotNetDriver_TEST/app/.externalNativeBuild/cmake/release/x86 --target clean"
+  ],
+  "libraries": {
+    "SYSIOT_NET_Driver-Release-x86": {
+      "buildCommand": "/usr/local/Android/Sdk/cmake/3.10.2.4988404/bin/cmake --build /root/AndroidStudioProjects/SysiotNetDriver_TEST/app/.externalNativeBuild/cmake/release/x86 --target SYSIOT_NET_Driver",
+      "buildType": "release",
+      "toolchain": "3073619831",
+      "abi": "x86",
+      "artifactName": "SYSIOT_NET_Driver",
+      "files": [
+        {
+          "src": "/root/AndroidStudioProjects/SysiotNetDriver_TEST/app/src/main/cpp/libSYSIOT_NET_Driver.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/root/AndroidStudioProjects/SysiotNetDriver_TEST/app/src/main/cpp/libSYSIOT_NET_Device.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "output": "/root/AndroidStudioProjects/SysiotNetDriver_TEST/app/build/intermediates/cmake/release/obj/x86/libSYSIOT_NET_Driver.so"
+    }
+  },
+  "toolchains": {
+    "3073619831": {
+      "cppCompilerExecutable": "/usr/local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

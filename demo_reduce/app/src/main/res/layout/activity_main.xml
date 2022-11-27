@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TabHost xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@android:id/tabhost"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <!-- TabWidget就是标签选项卡的头部部分 -->
+
+    <TabWidget
+        android:id="@android:id/tabs"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+    </TabWidget>
+
+    <!-- FrameLayout是标签的内容显示部分 -->
+
+    <FrameLayout
+        android:id="@android:id/tabcontent"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:paddingTop="65dp" >
+
+        <!-- 上部分空白设定，为了不让内容和标签重叠 -->
+
+
+        <!-- LinearLayout 是第1个标签里的内容 -->
+
+        <LinearLayout
+            android:id="@+id/linearLayout1"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:gravity="center_horizontal"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:orientation="vertical" >
+
+                <ScrollView
+                    android:id="@+id/scrollView1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical" >
+
+                        <LinearLayout
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:layout_marginLeft="2dp"
+                            android:layout_marginRight="2dp"
+                            android:layout_marginTop="2dp"
+                            android:background="@drawable/dialog_shape"
+                            android:orientation="vertical" >
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="2dp"
+                                android:layout_marginRight="2dp"
+                                android:gravity="center_vertical" >
+
+                                <TextView
+                                    android:id="@+id/tv_NetIP"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="@string/tv_NetIP" />
+
+                                <EditText
+                                    android:id="@+id/et_NetIP"
+                                    android:layout_width="0dp"
+                                    android:layout_height="wrap_content"
+                                    android:layout_weight="1"
+                                    android:ems="20"
+                                    android:hint="@string/et_NetIP_hint" />
+                            </LinearLayout>
+
+                            <Button
+                                android:id="@+id/bt_connect"
+                                android:layout_width="match_parent"
+                                android:layout_height="60dp"
+                                android:layout_marginLeft="1dp"
+                                android:layout_marginRight="1dp"
+                                android:background="@drawable/buttonshape"
+                                android:shadowColor="#000000"
+                                android:shadowDx="0"
+                                android:shadowDy="0"
+                                android:shadowRadius="5"
+                                android:text="@string/connect_reader"
+                                android:textSize="25sp" />
+
+                            <Button
+                                android:id="@+id/bt_disconnect"
+                                android:layout_width="match_parent"
+                                android:layout_height="60dp"
+                                android:layout_marginLeft="1dp"
+                                android:layout_marginRight="1dp"
+                                android:layout_marginTop="10dp"
+                                android:background="@drawable/buttonshape"
+                                android:shadowColor="#000000"
+                                android:shadowDx="0"
+                                android:shadowDy="0"
+                                android:shadowRadius="5"
+                                android:text="@string/disconnect_reader"
+                                android:textSize="25sp" />
+
+                            <Button
+                                android:id="@+id/bt_reset"
+                                android:layout_width="match_parent"
+                                android:layout_height="60dp"
+                                android:layout_marginLeft="1dp"
+                                android:layout_marginRight="1dp"
+                                android:layout_marginTop="10dp"
+                                android:background="@drawable/buttonshape"
+                                android:shadowColor="#000000"
+                                android:shadowDx="0"
+                                android:shadowDy="0"
+                                android:shadowRadius="5"
+                                android:text="@string/reset_reader"
+                                android:textSize="25sp" />
+
+                            <Button
+                                android:id="@+id/bt_read"
+                                android:layout_width="match_parent"
+                                android:layout_height="60dp"
+                                android:layout_marginLeft="1dp"
+                                android:layout_marginRight="1dp"
+                                android:layout_marginTop="10dp"
+                                android:background="@drawable/buttonshape"
+                                android:shadowColor="#000000"
+                                android:shadowDx="0"
+                                android:shadowDy="0"
+                                android:shadowRadius="5"
+                                android:text="Read Tag"
+                                android:textSize="25sp" />
+
+                            <Button
+                                android:id="@+id/bt_exit"
+                                android:layout_width="match_parent"
+                                android:layout_height="60dp"
+                                android:layout_marginLeft="1dp"
+                                android:layout_marginRight="1dp"
+                                android:layout_marginTop="10dp"
+                                android:background="@drawable/buttonshape"
+                                android:shadowColor="#000000"
+                                android:shadowDx="0"
+                                android:shadowDy="0"
+                                android:shadowRadius="5"
+                                android:text="@string/bt_exit"
+                                android:textSize="25sp"/>
+                        </LinearLayout>
+                    </LinearLayout>
+                </ScrollView>
+
+            </LinearLayout>
+        </LinearLayout>
+
+    </FrameLayout>
+
+</TabHost>

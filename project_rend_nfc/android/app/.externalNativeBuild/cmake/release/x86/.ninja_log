@@ -1,0 +1,4 @@
+# ninja log v5
+0	367	1557831107	CMakeFiles/SYSIOT_NET_Driver.dir/src/main/cpp/libSYSIOT_NET_Driver.cpp.o	2c58bac7d71f6f5e
+3	814	1557831107	CMakeFiles/SYSIOT_NET_Driver.dir/src/main/cpp/libSYSIOT_NET_Device.cpp.o	42366c0629c824c0
+815	1719	1557831108	../../../../build/intermediates/cmake/release/obj/x86/libSYSIOT_NET_Driver.so	71f0f804b411e99e

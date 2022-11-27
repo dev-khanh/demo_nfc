@@ -1,0 +1,21 @@
+# ninja log v5
+0	306	1557820431	CMakeFiles/SYSIOT_NET_Driver.dir/src/main/cpp/libSYSIOT_NET_Driver.cpp.o	22a9b623d874ca01
+0	309	1557820431	CMakeFiles/SYSIOT_NET_Driver.dir/src/main/cpp/libSYSIOT_NET_Device.cpp.o	4199b18772e70bdc
+309	390	1557820431	../../../../build/intermediates/cmake/debug/obj/x86/libSYSIOT_NET_Driver.so	dd9984cb1abf5f84
+0	176	1557820616	CMakeFiles/SYSIOT_NET_Driver.dir/src/main/cpp/libSYSIOT_NET_Driver.cpp.o	22a9b623d874ca01
+0	186	1557820616	CMakeFiles/SYSIOT_NET_Driver.dir/src/main/cpp/libSYSIOT_NET_Device.cpp.o	4199b18772e70bdc
+186	217	1557820616	../../../../build/intermediates/cmake/debug/obj/x86/libSYSIOT_NET_Driver.so	dd9984cb1abf5f84
+0	194	1557820646	CMakeFiles/SYSIOT_NET_Driver.dir/src/main/cpp/libSYSIOT_NET_Driver.cpp.o	22a9b623d874ca01
+0	206	1557820646	CMakeFiles/SYSIOT_NET_Driver.dir/src/main/cpp/libSYSIOT_NET_Device.cpp.o	4199b18772e70bdc
+206	225	1557820646	../../../../build/intermediates/cmake/debug/obj/x86/libSYSIOT_NET_Driver.so	dd9984cb1abf5f84
+0	137	1557821640	CMakeFiles/SYSIOT_NET_Driver.dir/src/main/cpp/libSYSIOT_NET_Device.cpp.o	4199b18772e70bdc
+137	374	1557821640	../../../../build/intermediates/cmake/debug/obj/x86/libSYSIOT_NET_Driver.so	dd9984cb1abf5f84
+1	283	1557826711	CMakeFiles/SYSIOT_NET_Driver.dir/src/main/cpp/libSYSIOT_NET_Driver.cpp.o	22a9b623d874ca01
+1	306	1557826711	CMakeFiles/SYSIOT_NET_Driver.dir/src/main/cpp/libSYSIOT_NET_Device.cpp.o	4199b18772e70bdc
+307	604	1557826711	../../../../build/intermediates/cmake/debug/obj/x86/libSYSIOT_NET_Driver.so	dd9984cb1abf5f84
+3	351	1557827278	CMakeFiles/SYSIOT_NET_Driver.dir/src/main/cpp/libSYSIOT_NET_Driver.cpp.o	22a9b623d874ca01
+6	380	1557827278	CMakeFiles/SYSIOT_NET_Driver.dir/src/main/cpp/libSYSIOT_NET_Device.cpp.o	4199b18772e70bdc
+380	435	1557827278	../../../../build/intermediates/cmake/debug/obj/x86/libSYSIOT_NET_Driver.so	dd9984cb1abf5f84
+15	245	1557830304	CMakeFiles/SYSIOT_NET_Driver.dir/src/main/cpp/libSYSIOT_NET_Driver.cpp.o	22a9b623d874ca01
+16	248	1557830304	CMakeFiles/SYSIOT_NET_Driver.dir/src/main/cpp/libSYSIOT_NET_Device.cpp.o	4199b18772e70bdc
+248	556	1557830304	../../../../build/intermediates/cmake/debug/obj/x86/libSYSIOT_NET_Driver.so	dd9984cb1abf5f84

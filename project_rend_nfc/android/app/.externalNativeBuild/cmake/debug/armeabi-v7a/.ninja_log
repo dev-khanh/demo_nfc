@@ -1,0 +1,21 @@
+# ninja log v5
+0	314	1557820432	CMakeFiles/SYSIOT_NET_Driver.dir/src/main/cpp/libSYSIOT_NET_Driver.cpp.o	b0619233352ada58
+1	340	1557820432	CMakeFiles/SYSIOT_NET_Driver.dir/src/main/cpp/libSYSIOT_NET_Device.cpp.o	f4750b51237add5f
+340	416	1557820432	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libSYSIOT_NET_Driver.so	8d9e4c4dd5e746af
+0	199	1557820616	CMakeFiles/SYSIOT_NET_Driver.dir/src/main/cpp/libSYSIOT_NET_Driver.cpp.o	b0619233352ada58
+0	220	1557820616	CMakeFiles/SYSIOT_NET_Driver.dir/src/main/cpp/libSYSIOT_NET_Device.cpp.o	f4750b51237add5f
+220	248	1557820616	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libSYSIOT_NET_Driver.so	8d9e4c4dd5e746af
+0	207	1557820646	CMakeFiles/SYSIOT_NET_Driver.dir/src/main/cpp/libSYSIOT_NET_Driver.cpp.o	b0619233352ada58
+0	226	1557820646	CMakeFiles/SYSIOT_NET_Driver.dir/src/main/cpp/libSYSIOT_NET_Device.cpp.o	f4750b51237add5f
+227	257	1557820646	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libSYSIOT_NET_Driver.so	8d9e4c4dd5e746af
+1	200	1557821641	CMakeFiles/SYSIOT_NET_Driver.dir/src/main/cpp/libSYSIOT_NET_Device.cpp.o	f4750b51237add5f
+200	894	1557821642	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libSYSIOT_NET_Driver.so	8d9e4c4dd5e746af
+0	498	1557826712	CMakeFiles/SYSIOT_NET_Driver.dir/src/main/cpp/libSYSIOT_NET_Driver.cpp.o	b0619233352ada58
+0	518	1557826712	CMakeFiles/SYSIOT_NET_Driver.dir/src/main/cpp/libSYSIOT_NET_Device.cpp.o	f4750b51237add5f
+518	1157	1557826713	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libSYSIOT_NET_Driver.so	8d9e4c4dd5e746af
+1	350	1557827279	CMakeFiles/SYSIOT_NET_Driver.dir/src/main/cpp/libSYSIOT_NET_Driver.cpp.o	b0619233352ada58
+4	408	1557827279	CMakeFiles/SYSIOT_NET_Driver.dir/src/main/cpp/libSYSIOT_NET_Device.cpp.o	f4750b51237add5f
+408	459	1557827279	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libSYSIOT_NET_Driver.so	8d9e4c4dd5e746af
+2	293	1557830305	CMakeFiles/SYSIOT_NET_Driver.dir/src/main/cpp/libSYSIOT_NET_Driver.cpp.o	b0619233352ada58
+2	310	1557830305	CMakeFiles/SYSIOT_NET_Driver.dir/src/main/cpp/libSYSIOT_NET_Device.cpp.o	f4750b51237add5f
+311	593	1557830305	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libSYSIOT_NET_Driver.so	8d9e4c4dd5e746af

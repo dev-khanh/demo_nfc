@@ -1,0 +1,20 @@
+Executable : /usr/local/Android/Sdk/cmake/3.10.2.4988404/bin/cmake
+arguments : 
+-H/root/AndroidStudioProjects/SysiotNetDriver_TEST/app
+-B/root/AndroidStudioProjects/SysiotNetDriver_TEST/app/.externalNativeBuild/cmake/release/x86
+-DANDROID_ABI=x86
+-DANDROID_PLATFORM=android-23
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/root/AndroidStudioProjects/SysiotNetDriver_TEST/app/build/intermediates/cmake/release/obj/x86
+-DCMAKE_BUILD_TYPE=Release
+-DANDROID_NDK=/usr/local/Android/Sdk/ndk-bundle
+-DCMAKE_CXX_FLAGS=
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_ANDROID_ARCH_ABI=x86
+-DCMAKE_SYSTEM_VERSION=23
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_ANDROID_NDK=/usr/local/Android/Sdk/ndk-bundle
+-DCMAKE_TOOLCHAIN_FILE=/usr/local/Android/Sdk/ndk-bundle/build/cmake/android.toolchain.cmake
+-G Ninja
+-DCMAKE_MAKE_PROGRAM=/usr/local/Android/Sdk/cmake/3.10.2.4988404/bin/ninja
+jvmArgs : 
+
